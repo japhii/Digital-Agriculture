@@ -1,0 +1,12 @@
+.env
+database.db
+uploads/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+frontend/node_modules/
+
+mobile_app_flutter/build/
+mobile_app_flutter/.dart_tool/
+mobile_app_flutter/.idea/
