@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌾 MyAgrii
+# 🌾 Digital Agriculture
 
 **Precision Agricultural Intelligence Platform**
 
@@ -207,5 +207,5 @@ This project is open source. Feel free to fork, use, and build on it.
 ---
 
 <div align="center">
-Built with ❤️ for sustainable agriculture
+Built Yaphet, for sustainable agriculture
 </div>
