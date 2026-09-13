@@ -10,6 +10,7 @@ import sqlite3
 import random
 import json
 import numpy as np
+from chatbot_endpoint import add_chatbot_endpoint
 import PIL.Image
 from flask_mail import Mail, Message
 from fpdf import FPDF
@@ -114,6 +115,7 @@ with get_db() as conn:
 
 basedir = os.path.abspath(os.path.dirname(__file__))
 app = Flask(__name__, static_folder=os.path.join(basedir, 'frontend/dist'), static_url_path='/')
+add_chatbot_endpoint(app)
 
 app.config['MAIL_SERVER'] = 'smtp.gmail.com'
 app.config['MAIL_PORT'] = 587
