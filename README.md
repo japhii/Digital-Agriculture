@@ -4,7 +4,7 @@
 
 **Precision Agricultural Intelligence Platform**
 
-A full-stack machine learning platform that empowers farmers and agronomists with AI-driven insights — from crop recommendations to disease detection.
+A full-stack machine learning platform that empowers farmers and agronomists with AI-driven insights — from crop recommendations to disease detection and soil life cycle prediction.
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![Flask](https://img.shields.io/badge/Flask-3.1-000000?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
